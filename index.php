@@ -12,9 +12,7 @@
 		 </div>
 		 <div class="sidebar">
 		    <h2>Меню</h2>
-				<?php
-					require_once ("blocks/menu.php");
-				?>
+				
 		 </div>
 		 <div class="content">
             <h2>Контент</h2>		 
